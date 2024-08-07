@@ -1,0 +1,33 @@
+.navBar {
+    height: 60px;
+}
+
+.box {
+    height: 250px;
+    width: 250px;
+    background-color: grey;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.abtBox {
+    height: 250px;
+    width: 1250px;
+    background-color: grey;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.footer {
+    height: 150px;
+    width: 1250px;
+    background-color: grey;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
