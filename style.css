@@ -1,5 +1,11 @@
+* {
+    font-size: 100%;
+    font-family: "Noto Serif", serif;
+   }
+
 .navBar {
     height: 60px;
+    background-color: gray ;
 }
 
 .box {
@@ -13,7 +19,7 @@
 }
 
 .abtBox {
-    height: 250px;
+    height: 150px;
     width: 1250px;
     background-color: grey;
     margin-top: 100px;
@@ -23,7 +29,7 @@
 }
 
 .footer {
-    height: 150px;
+    height: 50px;
     width: 1250px;
     background-color: grey;
     margin-top: 100px;
