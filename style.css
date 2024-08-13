@@ -5,22 +5,22 @@
 
 
    img {
-    border: 5px solid #555;
+    border: 5px solid #b25830;
   }
 
   body {
-    background-color: #082631;
+    background-color: #f3eedc;
   }
 
 .navBar {
     height: 60px;
-    background-color: gray ;
+    background-color: #082631 ;
 }
 
 .box {
     height: 250px;
     width: 250px;
-    background-color: grey;
+    background-color: #b25830;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 20px;
@@ -30,7 +30,7 @@
 .abtBox {
     height: 150px;
     width: 1250px;
-    background-color: grey;
+    background-color: #d8b67d;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 20px;
@@ -40,7 +40,7 @@
 .footer {
     height: 50px;
     width: 1250px;
-    background-color: grey;
+    background-color: #d8b67d;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 20px;
