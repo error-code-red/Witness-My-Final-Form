@@ -12,6 +12,10 @@
     background-color: #f3eedc;
   }
 
+ p {
+    color:#d8b67d
+}
+
 .navBar {
     height: 60px;
     background-color: #082631 ;
