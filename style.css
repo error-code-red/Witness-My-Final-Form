@@ -3,6 +3,15 @@
     font-family: "Noto Serif", serif;
    }
 
+
+   img {
+    border: 5px solid #555;
+  }
+
+  body {
+    background-color: #082631;
+  }
+
 .navBar {
     height: 60px;
     background-color: gray ;
@@ -37,3 +46,4 @@
     margin-right: 20px;
     margin-left: 20px;
 }
+
