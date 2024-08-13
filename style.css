@@ -39,7 +39,7 @@
 
 .footer {
     height: 50px;
-    width: 1250px;
+    width: "width=device-width, initial-scale=1.0";
     background-color: #d8b67d;
     margin-top: 100px;
     margin-bottom: 100px;
